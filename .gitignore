@@ -1,0 +1,14 @@
+.idea
+.ipynb_checkpoints
+__pycache__/*
+*.csv
+*.xls
+*.log
+*.zip
+*.rar
+*.pdf
+*.pyc
+*.pkl
+*.txt
+*bak
+*.exe
